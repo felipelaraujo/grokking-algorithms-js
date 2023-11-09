@@ -6,7 +6,7 @@ The examples were created using vanilla **JavaScript** and for testing I used **
 
 ## Implemented
 
-- [ ] Binary search
+- [x] Binary search
 - [ ] Selection sort
 - [ ] ...
 
